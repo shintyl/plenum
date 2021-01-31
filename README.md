@@ -8,7 +8,8 @@ http://damp-spire-88649.herokuapp.com/. Alternatively, to access the code in a d
 Server.java can be ran, and npm start can be run in the src/main/js folder, and after server initialization, the frontend
 of the application can be accessed at localhost:3000. 
 
-A lot of work done in this iteration was code refactorization and overall cleaning of the code. Edit profile was added to allow for people to change their profile information. We increased the number of time slots so each slot represents 15 minutes instead of 2 hours. We added real time preview of selected calendar in view-event and calendar creation and modification in view-event.
+A lot of work done in this iteration was code refactorization and overall cleaning of the code. Edit profile was added to allow for people to change their profile information. We increased the number of time slots so each slot represents 15 minutes instead of 2 hours. We added real time preview of selected calendar in view-event and calendar creation and modification in view-event. Additionally, some documentation was prepared for the class presentation. For example, this the activity diagram describing the front-end build process: 
+![activity_diagram](docs/diagram.PNG "activity_diagram")
 
 A new Dashboard page was added that allows the user to preview all their items at once, including their calendars, events, and the public events. This page is linked as the new home page. 
 
